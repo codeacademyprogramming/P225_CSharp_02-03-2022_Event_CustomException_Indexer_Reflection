@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P225\Task\P225CustomException\bin\Debug\netcoreapp3.1\P225CustomException.exe
+C:\Users\memme\Desktop\P225\Task\P225CustomException\bin\Debug\netcoreapp3.1\P225CustomException.deps.json
+C:\Users\memme\Desktop\P225\Task\P225CustomException\bin\Debug\netcoreapp3.1\P225CustomException.runtimeconfig.json
+C:\Users\memme\Desktop\P225\Task\P225CustomException\bin\Debug\netcoreapp3.1\P225CustomException.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P225\Task\P225CustomException\bin\Debug\netcoreapp3.1\P225CustomException.dll
+C:\Users\memme\Desktop\P225\Task\P225CustomException\bin\Debug\netcoreapp3.1\P225CustomException.pdb
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.dll
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.pdb
+C:\Users\memme\Desktop\P225\Task\P225CustomException\obj\Debug\netcoreapp3.1\P225CustomException.genruntimeconfig.cache

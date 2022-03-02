@@ -1,0 +1,10 @@
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\bin\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.deps.json
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\bin\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.dll
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\bin\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.pdb
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.AssemblyInfo.cs
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.dll
+C:\Users\memme\Desktop\P225\Task\P225ReflectionLibraryLibrary\obj\Debug\netcoreapp3.1\P225ReflectionLibraryLibrary.pdb
